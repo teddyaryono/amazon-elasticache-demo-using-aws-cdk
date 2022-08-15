@@ -694,6 +694,10 @@ As demonstrated in this post, you can use AWS CDK to create the infrastructure f
 You can now build your own infrastructure and application using the caching capability of Amazon ElastiCache to accelerate performance for a better user experience.
 
 
+## Survey
+Thank you for participating in this lab. Please [leave us feedback](https://github.com/teddyaryono/dotc-devlab-anz-2022/blob/main/README.md) to let us know how we did and for us to improve in future labs.
+
+
 
 ## License summary
 
